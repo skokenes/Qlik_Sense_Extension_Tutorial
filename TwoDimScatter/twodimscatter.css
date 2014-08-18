@@ -1,0 +1,14 @@
+.qv-object-twodimscatter div.qv-object-content-container {
+	font: 10px sans-serif;
+}
+
+.qv-object-twodimscatter .axis path,
+.qv-object-twodimscatter .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.qv-object-twodimscatter .dot {
+  stroke: #000;
+}

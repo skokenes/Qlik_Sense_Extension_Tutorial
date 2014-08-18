@@ -1,0 +1,181 @@
+Development Group,Country,Obesity %,Life expectancy at age 60
+Very High,Norway,19.8,24
+Very High,Australia,25.1,25.1
+Very High,Switzerland,14.9,25
+Very High,Netherlands,16.2,23.5
+Very High,United States,31.8,23.2
+Very High,Germany,21.3,23.5
+Very High,New Zealand,27,24.1
+Very High,Canada,24.3,24.4
+Very High,Singapore,6.4,24.5
+Very High,Denmark,16.2,22.4
+Very High,Ireland,24.5,23.4
+Very High,Sweden,16.6,24.1
+Very High,Iceland,21.9,24.3
+Very High,United Kingdom,24.9,23.5
+Very High,Korea (Republic of),7.3,24
+Very High,Japan,4.5,26.1
+Very High,Israel,25.5,24.3
+Very High,France,15.6,25.1
+Very High,Austria,18.3,23.9
+Very High,Belgium,19.1,23.6
+Very High,Luxembourg,23.4,23.4
+Very High,Finland,19.9,23.8
+Very High,Slovenia,27,22.8
+Very High,Italy,17.2,24.7
+Very High,Spain,24.1,24.8
+Very High,Czech Republic,28.7,21.1
+Very High,Greece,17.5,23.5
+Very High,Brunei Darussalam,7.9,21.4
+Very High,Qatar,33.1,21.2
+Very High,Cyprus,23.4,22
+Very High,Estonia,18.9,20.2
+Very High,Saudi Arabia,35.2,19.2
+Very High,Lithuania,24.7,19.1
+Very High,Poland,23.2,21.1
+Very High,Slovakia,24.6,19.8
+Very High,Malta,26.6,22.3
+Very High,United Arab Emirates,33.7,19.8
+Very High,Chile,29.1,23.6
+Very High,Portugal,21.6,23.2
+Very High,Hungary,24.8,19.9
+Very High,Bahrain,32.6,19.5
+Very High,Cuba,20.5,22.9
+Very High,Kuwait,42.8,17.6
+Very High,Croatia,21.3,20.6
+Very High,Latvia,22,19.1
+Very High,Argentina,29.4,21.4
+High,Uruguay,23.6,21.8
+High,Bahamas,35,22.3
+High,Montenegro,21.8,19.2
+High,Belarus,23.4,17.1
+High,Romania,17.7,19.4
+High,Libya,30.8,19.7
+High,Oman,22,20.5
+High,Russian Federation,24.9,17.5
+High,Bulgaria,21.4,18.8
+High,Barbados,33.4,19.5
+High,Antigua and Barbuda,25.8,21.5
+High,Malaysia,14.1,19
+High,Mauritius,18.2,19.3
+High,Trinidad and Tobago,30,17.8
+High,Lebanon,28.2,22.7
+High,Panama,25.8,23.9
+High,Venezuela (Bolivarian Republic of),30.8,21.1
+High,Costa Rica,24.6,23.8
+High,Turkey,29.3,20.9
+High,Kazakhstan,24.4,16.5
+High,Mexico,32.8,22.7
+High,Seychelles,24.6,19.4
+High,Sri Lanka,5,19.6
+High,Iran (Islamic Republic of),21.6,19.9
+High,Azerbaijan,24.7,18.3
+High,Jordan,34.3,19
+High,Serbia,23,18.7
+High,Brazil,19.5,21.8
+High,Georgia,21.2,19.8
+High,Grenada,24,18.5
+High,Peru,16.5,21.5
+High,Ukraine,20.1,17.4
+High,Belize,34.9,21.5
+High,The former Yugoslav Republic of Macedonia,20.3,19.1
+High,Bosnia and Herzegovina,24.2,20.2
+High,Armenia,23.4,20
+High,Fiji,31.9,17
+High,Thailand,8.5,21.4
+High,Tunisia,23.8,20.2
+High,China,5.6,19.5
+High,Saint Vincent and the Grenadines,25.1,19.7
+High,Algeria,17.5,17.9
+High,Albania,21.1,21.1
+High,Jamaica,24.6,21.3
+High,Saint Lucia,22.3,21
+High,Colombia,18.1,21.3
+High,Ecuador,22,23.6
+High,Suriname,25.8,18.5
+High,Tonga,59.6,18.6
+High,Dominican Republic,21.9,21.9
+Medium,Maldives,16.1,21
+Medium,Mongolia,16.4,16.3
+Medium,Turkmenistan,14.3,17
+Medium,Samoa,55.5,18.9
+Medium,Indonesia,4.7,17.8
+Medium,Botswana,13.5,16.4
+Medium,Egypt,34.6,17.5
+Medium,Paraguay,19.2,20.8
+Medium,Gabon,15,18.2
+Medium,Bolivia (Plurinational State of),18.9,18.6
+Medium,Moldova (Republic of),20.4,16.2
+Medium,El Salvador,26.9,22
+Medium,Uzbekistan,17.3,18.3
+Medium,Philippines,6.4,17
+Medium,South Africa,33.5,16
+Medium,Syrian Arab Republic,31.6,19.9
+Medium,Iraq,29.4,17.5
+Medium,Guyana,16.9,16.6
+Medium,Viet Nam,1.6,22.4
+Medium,Cape Verde,11.5,19.9
+Medium,Micronesia (Federated States of),42,17.3
+Medium,Guatemala,20.7,21.5
+Medium,Kyrgyzstan,17.2,16.8
+Medium,Namibia,10.9,17.3
+Medium,Timor-Leste,2.9,16.9
+Medium,Honduras,19.8,22.1
+Medium,Morocco,17.3,17.9
+Medium,Vanuatu,29.8,18
+Medium,Nicaragua,24.2,22.2
+Medium,Kiribati,45.8,17.4
+Medium,Tajikistan,9.9,18.2
+Medium,India,1.9,17
+Medium,Bhutan,5.5,19.5
+Medium,Cambodia,2.3,23.8
+Medium,Ghana,8,15.5
+Medium,Lao People's Democratic Republic,3,17.1
+Medium,Congo,5.3,17.1
+Medium,Zambia,4.2,17
+Medium,Bangladesh,1.1,18.4
+Medium,Sao Tome and Principe,11.3,18.2
+Medium,Equatorial Guinea,11.5,15.9
+Low,Nepal,1.5,17.1
+Low,Pakistan,5.9,17.4
+Low,Kenya,4.7,17.8
+Low,Swaziland,23.4,16.3
+Low,Angola,7.2,15.7
+Low,Myanmar,4.1,16.6
+Low,Rwanda,4.3,17.8
+Low,Cameroon,11.1,16.4
+Low,Nigeria,7.1,13.7
+Low,Yemen,16.7,16.2
+Low,Madagascar,1.7,16.9
+Low,Zimbabwe,8.6,18.8
+Low,Papua New Guinea,15.9,14.9
+Low,Solomon Islands,32.1,16.9
+Low,Comoros,4.4,15.9
+Low,Tanzania (United Republic of),5.4,17.9
+Low,Mauritania,14,16.4
+Low,Lesotho,16.9,15.5
+Low,Senegal,8,16.2
+Low,Uganda,4.6,17.5
+Low,Benin,6.5,15.6
+Low,Sudan,6.6,17.4
+Low,Togo,4.6,14.5
+Low,Haiti,8.4,17.2
+Low,Afghanistan,2.4,15.9
+Low,Djibouti,10.4,17.5
+Low,C“te d'Ivoire,6.7,13.9
+Low,Gambia,8.5,15.2
+Low,Ethiopia,1.2,17.8
+Low,Malawi,4.5,17
+Low,Liberia,5.5,15.4
+Low,Mali,4.8,15.4
+Low,Guinea-Bissau,5.4,14.9
+Low,Mozambique,5.4,16.8
+Low,Guinea,4.7,14.8
+Low,Burundi,3.3,16
+Low,Burkina Faso,2.4,15.1
+Low,Eritrea,1.8,15.1
+Low,Sierra Leone,7,12.5
+Low,Chad,3.1,15.6
+Low,Central African Republic,3.7,15.9
+Low,Congo (Democratic Republic of the),1.9,15.2
+Low,Niger,2.5,15.5

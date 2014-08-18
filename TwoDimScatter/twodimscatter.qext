@@ -1,0 +1,9 @@
+{
+	"name" : "Two Dimensional Scatter",
+	"description" : "A scatter plot that uses two dimensions",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"preview" : "table",
+	"author": "Speros"
+}
